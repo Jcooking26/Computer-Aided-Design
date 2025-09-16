@@ -6,7 +6,7 @@
 ![alt text](https://github.com/Jcooking26/Computer-Aided-Design/blob/ec45d11515b4ad69a690f9ad706ce23e9beb596e/64-Tetrahedron---Flower-of-Life/Pics/Screenshot%202025-09-15%20220302.png)
 
 ## Flower of Life
-[alt text](https://github.com/Jcooking26/Computer-Aided-Design/blob/c2fe7cfea7b29cadccf40ec8d6262bdb24fdf3d4/64-Tetrahedron---Flower-of-Life/Pics/Screenshot%202025-09-15%20204659.png)
+![alt text](https://github.com/Jcooking26/Computer-Aided-Design/blob/c2fe7cfea7b29cadccf40ec8d6262bdb24fdf3d4/64-Tetrahedron---Flower-of-Life/Pics/Screenshot%202025-09-15%20204659.png)
 
 ## Flower of Life and Tetrahedron
 ![alt text](https://github.com/Jcooking26/Computer-Aided-Design/blob/c2fe7cfea7b29cadccf40ec8d6262bdb24fdf3d4/64-Tetrahedron---Flower-of-Life/Pics/Screenshot%202025-09-15%20204842.png)
